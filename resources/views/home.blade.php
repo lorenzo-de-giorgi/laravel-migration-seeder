@@ -3,9 +3,9 @@
 @section('title', 'Home')
 
 @section('content')
-    <div class="ldg-main">
-        <section class="container text-center">
-            Body
-        </section>
+    <div class="container">
+        <div class="text-center mt-5">
+            <a href="{{route('trains.index')}}" class="btn btn-danger">Clicca per vedere tutti i treni</a>
+        </div> 
     </div>
 @endsection
