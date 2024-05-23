@@ -1,0 +1,57 @@
+[
+    {
+        "azienda": "Trenitalia",
+        "stazione_di_partenza": "Milano Centrale",
+        "stazione_di_arrivo": "Roma Termini",
+        "orario_di_partenza": "08:00",
+        "orario_di_arrivo": "11:30",
+        "codice_treno": "IC1234",
+        "numero_carrozze": 8,
+        "in_orario": 1,
+        "cancellato": 0
+    },
+    {
+        "azienda": "Italo",
+        "stazione_di_partenza": "Venezia Santa Lucia",
+        "stazione_di_arrivo": "Firenze Santa Maria Novella",
+        "orario_di_partenza": "09:15",
+        "orario_di_arrivo": "11:45",
+        "codice_treno": "IT5678",
+        "numero_carrozze": 10,
+        "in_orario": 0,
+        "cancellato": 0
+    },
+    {
+        "azienda": "Trenitalia",
+        "stazione_di_partenza": "Torino Porta Nuova",
+        "stazione_di_arrivo": "Napoli Centrale",
+        "orario_di_partenza": "07:30",
+        "orario_di_arrivo": "13:00",
+        "codice_treno": "IC9101",
+        "numero_carrozze": 12,
+        "in_orario": 1,
+        "cancellato": 0
+    },
+    {
+        "azienda": "Italo",
+        "stazione_di_partenza": "Genova Piazza Principe",
+        "stazione_di_arrivo": "Bologna Centrale",
+        "orario_di_partenza": "10:00",
+        "orario_di_arrivo": "12:45",
+        "codice_treno": "IT1122",
+        "numero_carrozze": 9,
+        "in_orario": 0,
+        "cancellato": 1
+    },
+    {
+        "azienda": "Trenitalia",
+        "stazione_di_partenza": "Bari Centrale",
+        "stazione_di_arrivo": "Palermo Centrale",
+        "orario_di_partenza": "06:00",
+        "orario_di_arrivo": "12:00",
+        "codice_treno": "IC3344",
+        "numero_carrozze": 7,
+        "in_orario": 1,
+        "cancellato": 0
+    }
+]
